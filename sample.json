@@ -1,0 +1,10 @@
+{
+	"client_enabled": false,
+	"client_id": 5678 ,
+	"employer_enabled": false,
+	"employer_id": "EMP5678",
+	"location_enabled": false,
+	"location_id": "LOC5678",
+	"plan_enabled":false,
+	"plan_id": "PLAN5678"
+}
